@@ -34,17 +34,17 @@
                         <nav>
                             <div class="menu-main-container">
                                 <ul>
-                                    <li><a href="../views/home/"><span class="h3">Home</span></a></li>
-                                    <li><a href="../views/aboutus/ "><span class="h3">About Us</span></a></li>
-                                    <li><a href="../views/printing-package/"><span class="h3">Products & Services</span></a></li>
-                                    <li><a href="../views/customer/"><span class="h3">Customers & Industries</span></a></li>
-                                    <li><a href="../views/insights/"><span class="h3">Blogs</span></a></li>
-                                    <li><a href="../views/new/"><span class="h3">News</span></a></li>
-                                    <li class=""><a href="../views/gallery/"><span class="h3">Gallery</span></a></li>
+                                    <li><a href="javascript:window.location.href='/home/'"><span class="h3">Home</span></a></li>
+                                    <li><a href="javascript:window.location.href='/aboutus/' "><span class="h3">About Us</span></a></li>
+                                        <li><a href="javascript:window.location.href='/printing-package /"><span class="h3">Products & Services</span></a></li>
+                                           <li><a href="javascript:window.location.href='/ customer /'"><span class="h3">Customers & Industries</span></a></li>
+                                     <li><a href="javascript:window.location.href='/insights/'"><span class="h3">Blogs</span></a></li>
+                                    <li><a href="javascript:window.location.href='/new/'"><span class="h3">News</span></a></li>
+                                    <li class=""><a href="javascript:window.location.href='/gallery/'"><span class="h3">Gallery</span></a></li>
                                     <!-- <li class="gallery-nav"><a href="https://Dynaverse.net/about-us/#team"><span class="h3">Meet The Team</span></a></li> -->
-                                    <li><a href="../views/careers/"><span class="h3">Careers</span></a></li>
-                                    <li><a href="../views/collaborate-with-us/"><span class="h3">Collaborate With Us</span></a></li>
-                                    <li><a href="../views/contact/"><span class="h3">Contact Us</span></a></li>
+                                    <li><a href="javascript:window.location.href='/careers/'"><span class="h3">Careers</span></a></li>
+                                        <li><a href="javascript:window.location.href='/collaborate-with-us /'"><span class="h3">Collaborate With Us</span></a></li>
+                                    <li><a href="javascript:window.location.href='/contactus /'"><span class="h3">Contact Us</span></a></li>
                                 </ul> 
                             </div>
                             
